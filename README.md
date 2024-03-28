@@ -6,8 +6,21 @@
 - [Data Analysis](#data-analysis)
 
 ---
-### Project short description
-AtliQ Hardware is a rapidly growing company in recent years, and they have decided to implement data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data-driven decisions. This project hoped to give answers to the questions of stakeholders in terms of all the aspects like finance, sales, marketing, and supply chain
+### Project description
+As AtliQ Hardware undergoes significant growth, the need for advanced data analytics has become more apparent. To maintain a competitive edge and promote data-driven decision-making, AtliQ Hardware is integrating Power BI into its operations with the Business Insight 360 project.
+
+### Project Aim
+The project aims to offer comprehensive insights into finance, sales, marketing, and supply chain operations. By utilizing Power BI's robust analytics capabilities, the project seeks to address critical questions from stakeholders, enabling informed decision-making and strategic planning.
+
+### Implimentation
+The project's development was influenced by principles and techniques from the Codebasics Power BI Course, which provided a solid foundation in Power BI functionalities and best practices in data analytics.
+
+### Live Dashboard Link
+[download here](https://app.powerbi.com/links/-rCl-PN9vx?ctid=0cb8250f-3ddf-4c46-914a-7ac630038b4c&pbi_source=linkShare)
+
+
+
+
 
 ---
 ### Data Source
