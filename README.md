@@ -1,3 +1,4 @@
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 # Altiq-Business-Insight-360
 
 ## Table of Content
@@ -52,28 +53,7 @@ Each button on the Home view leads to a specific section of the dashboard, cater
 - Sales View: Tailored for sales analysis, it presents data on sales performance, trends, and customer insights.
 - Marketing View: Dedicated to marketing analytics, this view provides insights on marketing strategies, campaign effectiveness, and market trends.
 - Supply Chain View: Concentrates on supply chain logistics, inventory management, and distribution metrics.
-- Executive View: A high-level overview suitable for executives, focusing on key performance indicators and strategic insights.
-- Support: Offers assistance and additional information for users requiring help in navigating or interpreting the dashboard.
 
-
-### Tools that we use
-- SQL
-- PowerBi Desktop
-  
-- Excel [Download here] 
-- DAX language
-- DAX studio (for optimizing the report)
-
-- how to add table here??
-  |Heading1|Heading2|
-  |--------|--------|
-  |Python|SQL|
-
-### Data Cleaning and Preparation
-
-
-
-### Exporatory Data Analysis (question which we will cover in it
 
 ![Dashboard]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/2c39671b-78b7-417e-b40f-55e03cf5d05f)
 ![Dashboard View - Supply Chain]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/2451a328-066e-4759-9879-404ba9e5cf40)
@@ -90,6 +70,11 @@ Some of the code like sql or dax which is use in the code
 ```sql
 SELECT * FROM TABLE1;
 ```
+
+- how to add table here??
+  |Heading1|Heading2|
+  |--------|--------|
+  |Python|SQL|
 
 
 ### Result and finding
