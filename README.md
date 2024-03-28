@@ -18,7 +18,29 @@ The project's development was influenced by principles and techniques from the C
 ### Live Dashboard Link
 [download here](https://app.powerbi.com/links/-rCl-PN9vx?ctid=0cb8250f-3ddf-4c46-914a-7ac630038b4c&pbi_source=linkShare)
 
+### Technology
+SQL for data querying
+PowerBi Desktop for reports
+Excel for data processing
+DAX for calculations and expressions
+DAX Studio for optimization
 
+### Key Questions to Consider Before Dashboard Development
+Before starting the Power BI dashboard development, it's important to address key questions to ensure clear objectives and alignment:
+
+- **Project Objective:** What is the main goal of the Power BI dashboard?
+- **Success Metrics:** How will we measure the success of the dashboard?
+- **Project Timeline:** When is the project expected to be completed?
+- **Stakeholder Previews:** Do stakeholders expect to see a preview or prototype before the final release?
+- **Stakeholder Expectations:** What outcomes or benefits do stakeholders anticipate?
+- **Stakeholder Concerns:** Are there any concerns stakeholders have about the dashboard's development?
+- **User Demographics:** Who will primarily use the dashboard and for what purposes?
+- **Completion Expectations:** What specific expectations do stakeholders have for the dashboard's functionality, impact, or benefits?
+- **Potential Challenges:** What challenges might arise during dashboard development?
+- vResource Requirements:** What resources or data are needed to build the dashboard?
+- **Stakeholder Design Input:** Have stakeholders provided input on the dashboard's design and layout?
+
+Understanding these aspects is essential for a successful project kickoff. Clarity on these questions will guide the project and ensure the dashboard meets its objectives and stakeholder needs.
 
 
 
