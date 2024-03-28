@@ -3,8 +3,11 @@
 ## Table of Content
 
 - [Project short description](#project-short-description)
-- [Data Analysis](#data-analysis)
-
+- [Live Dashboard Link](#Live-Dashboard-Link)
+- [Technology](#Technology)
+- [Key Questions to Consider Before Dashboard Development](#Key-Questions-to-Consider-Before-Dashboard-Development)
+- [Available Views on Dashboard](#Available-Views-on-Dashboard)
+  
 ---
 ### Project description
 As AtliQ Hardware undergoes significant growth, the need for advanced data analytics has become more apparent. To maintain a competitive edge and promote data-driven decision-making, AtliQ Hardware is integrating Power BI into its operations with the Business Insight 360 project.
