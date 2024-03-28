@@ -19,11 +19,12 @@ The project's development was influenced by principles and techniques from the C
 [download here](https://app.powerbi.com/links/-rCl-PN9vx?ctid=0cb8250f-3ddf-4c46-914a-7ac630038b4c&pbi_source=linkShare)
 
 ### Technology
-SQL for data querying
-PowerBi Desktop for reports
-Excel for data processing
-DAX for calculations and expressions
-DAX Studio for optimization
+- SQL for data querying
+- PowerBi Desktop for reports
+  - [Download here](https://powerbi.microsoft.com/en-us/downloads)
+- Excel for data processing
+- DAX for calculations and expressions
+- DAX Studio for optimization
 
 ### Key Questions to Consider Before Dashboard Development
 Before starting the Power BI dashboard development, it's important to address key questions to ensure clear objectives and alignment:
@@ -42,17 +43,23 @@ Before starting the Power BI dashboard development, it's important to address ke
 
 Understanding these aspects is essential for a successful project kickoff. Clarity on these questions will guide the project and ensure the dashboard meets its objectives and stakeholder needs.
 
+### Available Views on Dashboard
 
+Each button on the Home view leads to a specific section of the dashboard, catering to different aspects of the business:
 
----
-### Data Source
+- Info: This view provides an overview and instructions on how to use the dashboard.
+- Finance View: Focused on financial data and metrics, this view offers insights into the company’s fiscal health.
+- Sales View: Tailored for sales analysis, it presents data on sales performance, trends, and customer insights.
+- Marketing View: Dedicated to marketing analytics, this view provides insights on marketing strategies, campaign effectiveness, and market trends.
+- Supply Chain View: Concentrates on supply chain logistics, inventory management, and distribution metrics.
+- Executive View: A high-level overview suitable for executives, focusing on key performance indicators and strategic insights.
+- Support: Offers assistance and additional information for users requiring help in navigating or interpreting the dashboard.
 
-Provided by Altiq company "sales.csv"
 
 ### Tools that we use
 - SQL
 - PowerBi Desktop
-  - [Download here](https://powerbi.microsoft.com/en-us/downloads)
+  
 - Excel [Download here] 
 - DAX language
 - DAX studio (for optimizing the report)
