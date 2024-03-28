@@ -1,5 +1,4 @@
-# WEllcome to Altiq-Business-Insight-360 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg) 
-
+# Welcome to Altiq-Business-Insight-360 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg) 
 
 ## Table of Content
 
@@ -16,9 +15,11 @@ The project aims to offer comprehensive insights into finance, sales, marketing,
 ### Implimentation
 The project's development was influenced by principles and techniques from the Codebasics Power BI Course, which provided a solid foundation in Power BI functionalities and best practices in data analytics.
 
+---
 ### Live Dashboard Link
 [download here](https://app.powerbi.com/links/-rCl-PN9vx?ctid=0cb8250f-3ddf-4c46-914a-7ac630038b4c&pbi_source=linkShare)
 
+---
 ### Technology
 - SQL for data querying
 - PowerBi Desktop for reports
@@ -27,6 +28,7 @@ The project's development was influenced by principles and techniques from the C
 - DAX for calculations and expressions
 - DAX Studio for optimization
 
+---
 ### Key Questions to Consider Before Dashboard Development
 Before starting the Power BI dashboard development, it's important to address key questions to ensure clear objectives and alignment:
 
@@ -44,6 +46,7 @@ Before starting the Power BI dashboard development, it's important to address ke
 
 Understanding these aspects is essential for a successful project kickoff. Clarity on these questions will guide the project and ensure the dashboard meets its objectives and stakeholder needs.
 
+---
 ### Available Views on Dashboard
 
 Each button on the Home view leads to a specific section of the dashboard, catering to different aspects of the business:
@@ -60,6 +63,15 @@ Each button on the Home view leads to a specific section of the dashboard, cater
 ![Dashboard View - Marketing]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/b2e58388-a65e-4138-9edd-672a2aac4378)
 ![Dashboard View - Sales View]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/bbfa3eab-28c1-4692-ab8d-900bc4871e14)
 ![Dashboard View - Financial view]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/73e96600-5ede-4ac9-a29d-cdb871be1791)
+
+
+
+
+
+
+
+
+
 
 
 ### Data analysis
