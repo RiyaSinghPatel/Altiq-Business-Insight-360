@@ -76,12 +76,10 @@ Each button on the Home view leads to a specific section of the dashboard, cater
 ### Exporatory Data Analysis (question which we will cover in it
 
 ![Dashboard]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/2c39671b-78b7-417e-b40f-55e03cf5d05f)
-
-![Dashboard View]![dashboard](
-![SC](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/2451a328-066e-4759-9879-404ba9e5cf40)
-![Mv](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/b2e58388-a65e-4138-9edd-672a2aac4378)
-![SV](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/bbfa3eab-28c1-4692-ab8d-900bc4871e14)
-![FV](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/73e96600-5ede-4ac9-a29d-cdb871be1791)
+![Dashboard View - Supply Chain]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/2451a328-066e-4759-9879-404ba9e5cf40)
+![Dashboard View - Marketing]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/b2e58388-a65e-4138-9edd-672a2aac4378)
+![Dashboard View - Sales View]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/bbfa3eab-28c1-4692-ab8d-900bc4871e14)
+![Dashboard View - Financial view]![dashboard](https://github.com/RiyaSinghPatel/Altiq-Business-Insight-360/assets/148413456/73e96600-5ede-4ac9-a29d-cdb871be1791)
 
 
 ### Data analysis
